@@ -1,3 +1,4 @@
+//edito el 6
 console.log("Escribe un numero");
 var numero=process.openStdin();
 numero.on('data', function(chunk) {
