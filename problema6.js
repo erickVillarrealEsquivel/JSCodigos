@@ -4,5 +4,5 @@ numero.on('data', function(chunk) {
   for(var i=0;i<=chunk;i++){
       console.log(i);
   }
-  console.log("escribe otro numero o control+C para salir")
+  console.log("escribe otro numero o control+C para salir");
  });
