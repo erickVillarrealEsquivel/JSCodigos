@@ -1,0 +1,20 @@
+console.log("Escribe una frase");
+var frase=process.openStdin();
+frase.on('data', function(chunk) {
+  console.log("");
+  console.log("");
+  console.log("");
+  console.log("");
+  console.log("");
+  console.log("");
+  console.log("");
+  console.log("\t\t\t\t frase es "+chunk);
+  console.log("");
+  console.log("");
+  console.log("");
+  console.log("");
+  console.log("");
+  console.log("");
+  console.log("");
+  console.log("escribe CONTROL+C para salir");
+ });
