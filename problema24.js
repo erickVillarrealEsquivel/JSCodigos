@@ -1,3 +1,4 @@
+//problema 24
 console.log("Escribe un numero");
 var numero=process.openStdin();
 var ban=true;
