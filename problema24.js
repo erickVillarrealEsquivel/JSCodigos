@@ -1,4 +1,5 @@
 //problema 24
+//Comprobar si un número mayor o igual que la unidad es primo.
 console.log("Escribe un numero");
 var numero=process.openStdin();
 var ban=true;
